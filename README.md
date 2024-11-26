@@ -4,19 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=안녕하세요%20김태영입니다.&fontSize=60" />
 
 
-<details>
-<summary>About Me</summary>
-  </a>
-  <span>
-    <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/GitHub-ff8c94?style=plastic&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Gmail-a8e6ce?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-</summary>
-</details>
+
   
 ## 보유기술
 
