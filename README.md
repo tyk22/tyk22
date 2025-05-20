@@ -16,10 +16,24 @@
 ### 프로젝트 이름(간단한 설명)
 * 핵심 기술 :
 * 주요 코드 :
+### 📨 Groupware (메일 및 조직도 시스템)
+- 팀 협업을 위한 그룹웨어 개발
+- 메일, 조직도, 결재, 공지 게시판, 실시간 알림 기능 포함
+- `Spring Boot`, `WebSocket`, `MySQL`, `Thymeleaf`, `Bootstrap` 등 사용
 
+### 📌 공지 게시판 시스템
+- 관리자만 작성 가능한 공지 게시판
+- 긴급/일반 구분, 목록-상세 2분할 UI
+- 비동기 탭 로딩 구현
+
+> 더 자세한 내용은 [여기](링크)에서 확인하세요.
 ## 자격
 *
-
+## 📚 Certification
+- 정보처리기사 (준비 중)
+- 구디 아카데미 (수료)
+- 전자 정부 프레임워크
+  
 
 
 <img src="http://mazandi.herokuapp.com/api?handle={tyk}&theme=dark"/>
