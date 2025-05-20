@@ -34,6 +34,8 @@
 - 전자 정부 프레임워크
   
 
+## 🌱 GitHub 잔디
+[![tyk22's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tyk22&theme=github-compact)](https://github.com/tyk22)
 
-<img src="http://mazandi.herokuapp.com/api?handle={tyk22}&theme=dark"/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyk22&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyk22&layout=compact&theme=gruvbox)
