@@ -27,7 +27,6 @@
 - 긴급/일반 구분, 목록-상세 2분할 UI
 - 비동기 탭 로딩 구현
 
-> 더 자세한 내용은 [여기](링크)에서 확인하세요.
 
 ## 📚 Certification
 - 정보처리기사 (준비 중)
@@ -36,5 +35,5 @@
   
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={tyk}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle={tyk22}&theme=dark"/>
 
